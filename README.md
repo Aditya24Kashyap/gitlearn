@@ -1,3 +1,3 @@
 # gitlearn
 
-Just for learn
+Just for learning
