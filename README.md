@@ -1,4 +1,7 @@
 # gitlearn
 
 Just for learning
-This repo is for all about learning about git activities 
+
+---
+
+This repo is for all about **learning** about git activities 
